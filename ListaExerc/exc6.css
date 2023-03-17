@@ -1,0 +1,13 @@
+.campo {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: center; 
+}
+
+.field {
+    width: 300px;
+    padding: 8px;
+    background-color: black;
+    color: white;
+}
